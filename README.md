@@ -1,4 +1,14 @@
-## Hi there 👋
+### Mingding Han
+
+<a href="https://www.linkedin.com/in/mingdinghan"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align: bottom;"></a>  | <a href="https://bsky.app/profile/mingdinghan.bsky.social"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="25" style="vertical-align: bottom"></a>
+
+<a href="https://google.accredible.com/bb6635b1-e85a-4f2b-abc1-09f95f401d36#acc.ICM3nZBR"><img src="https://raw.githubusercontent.com/mingdinghan/mingdinghan/main/professional-data-engineer-certification.png" width="75"></a>
+
+Hi! 👋 Welcome to my portfolio.
+
+My name is Ming and I am a Computer Programmer and Software Engineer based in Singapore.
+
+I am interested in programming languages, data engineering, databases and distributed systems.
 
 <!--
 **mingdinghan/mingdinghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
